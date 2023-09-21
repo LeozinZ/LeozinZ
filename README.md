@@ -3,7 +3,7 @@
 -Meu nome é Leonardo 
 -
 
--Estudo na [Alura]
+-Estudo na [Alura](https://www.alura.com.br)
 -
 
 -Estou me desenvo lvendo na linguagem Javascript,
